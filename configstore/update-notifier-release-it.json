@@ -1,0 +1,10 @@
+{
+	"optOut": false,
+	"lastUpdateCheck": 1747215738387,
+	"update": {
+		"latest": "19.0.2",
+		"current": "17.11.0",
+		"type": "major",
+		"name": "release-it"
+	}
+}
